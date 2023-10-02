@@ -19,7 +19,6 @@ body{
     margin: 0 auto;
     font-family: 'Montserrat', sans-serif;
     width: 1200px;
-    border: 2px solid red;
 }
 .navigation-link{
     color: var(--basic-header-color);
@@ -36,4 +35,16 @@ body{
     color: var(--title-color);
     margin-bottom: 20px;
     text-align: right;
+}
+.work-title{
+    margin-bottom: 40px;
+}
+
+.line{
+    width: 60px;
+    height: 5;
+    color: var(--sc-nav-color);
+}
+.logo{
+    margin-top: 14;
 }
